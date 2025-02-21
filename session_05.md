@@ -2,7 +2,9 @@
 ## Artificial Intelligence
 ## Artificial General Intelligence
 ## History of Artificial Intelligence
+
 ### Perceptron
+It is known as a mimic of neurons present in the human brain.It contains Algorithms which is equivalent to the functions done by the human brain but in computer.
 ### Backpropagation
 ### AI Winter
 ### DARPA Grand Challenge 2005
